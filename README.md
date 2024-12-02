@@ -1,3 +1,6 @@
+# Thanks from sajjddg
+https://github.com/sajjaddg/xray-reality
+
 # xray-reality
 This is a Bash script that installs Xray Beta and downloads the configuration for the repository created by [Teegrce](https://twitter.com/Teegrce) for Iran inside this repository with your own key and places it only with one command :)
 #
