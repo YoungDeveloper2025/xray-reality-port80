@@ -7,7 +7,7 @@ This is a Bash script that installs Xray Beta and downloads the configuration fo
 ## Installation Guide
 just need you to run this command
 ```
- sudo bash -c "$(curl -L https://raw.githubusercontent.com/YoungDeveloper2025/xray-reality-port80/master/install.sh)"
+sudo bash -c "$(curl -L https://raw.githubusercontent.com/YoungDeveloper2025/xray-reality-port80/master/install.sh)"
 ``` 
 and it will do the rest for you.
 
